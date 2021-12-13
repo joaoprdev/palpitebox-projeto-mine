@@ -12,7 +12,7 @@ const Index = () => {
 
   return (
     <div>
-      <PageTitle title='Seja Bem-vindo!!' />
+      <PageTitle title='Seja Bem-vindo' />
       <p className='mt-12 text-center'>
         O restaurante X sempre busca por atender melhor seus clientes.<br />
         Por isso, estamos sempre abertos a ouvir a sua opinião.
