@@ -1,0 +1,29 @@
+{
+  "name": "palpitebox-projeto-mine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "keywords": [],
+  "author": "João Paulo Rodrigues",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^9.8.6",
+    "google-spreadsheet": "^3.2.0",
+    "moment": "^2.29.1",
+    "next": "^12.0.7",
+    "postcss-import": "^14.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "swr": "^1.1.1",
+    "tailwindcss": "^1.9.6"
+  },
+  "devDependencies": {
+    "css-loader": "^6.5.1",
+    "style-loader": "^3.3.1"
+  }
+}

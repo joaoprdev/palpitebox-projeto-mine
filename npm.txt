@@ -1,0 +1,8 @@
+-inicializar projeto comfirmando tudo.
+npm init -y     
+
+-dependencias
+npm install next react react-dom
+
+-executar
+npm rum dev
